@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="63f79ffc-5c96-4249-8c01-219babb1bd7d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/SameOrDifferentUpToTwoDecimalPlaces.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -51,9 +52,16 @@
     "project.structure.side.proportion": "0.0"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.GPAandFindGrade">
+  <component name="RunManager" selected="Application.SameOrDifferentUpToTwoDecimalPlaces">
     <configuration name="GPAandFindGrade" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="GPAandFindGrade" />
+      <module name="Conditional-Statement-Practice-With-Java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SameOrDifferentUpToTwoDecimalPlaces" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SameOrDifferentUpToTwoDecimalPlaces" />
       <module name="Conditional-Statement-Practice-With-Java" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -68,6 +76,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SameOrDifferentUpToTwoDecimalPlaces" />
         <item itemvalue="Application.GPAandFindGrade" />
         <item itemvalue="Application.SmallOrCapital" />
       </list>
@@ -81,7 +90,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1660824043367</updated>
-      <workItem from="1660824044654" duration="3751000" />
+      <workItem from="1660824044654" duration="4364000" />
     </task>
     <servers />
   </component>
