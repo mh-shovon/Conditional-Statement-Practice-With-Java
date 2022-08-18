@@ -5,15 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="63f79ffc-5c96-4249-8c01-219babb1bd7d" name="Changes" comment="ignore file">
-      <change afterPath="$PROJECT_DIR$/src/ATM_Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ForLoopPractice1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ForLoopPractice2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ForLoopPractice3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ForLoopPractice4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ForLoopPractice5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ForLoopPractice6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ForLoopPractice7.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ForLoopPractice6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ForLoopPractice6.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,7 +52,7 @@
     "project.structure.side.proportion": "0.0"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.ForLoopPractice7">
+  <component name="RunManager" selected="Application.ForLoopPractice6">
     <configuration name="ForLoopPractice3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ForLoopPractice3" />
       <module name="Conditional-Statement-Practice-With-Java" />
@@ -97,8 +90,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ForLoopPractice7" />
         <item itemvalue="Application.ForLoopPractice6" />
+        <item itemvalue="Application.ForLoopPractice7" />
         <item itemvalue="Application.ForLoopPractice5" />
         <item itemvalue="Application.ForLoopPractice4" />
         <item itemvalue="Application.ForLoopPractice3" />
@@ -113,7 +106,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1660824043367</updated>
-      <workItem from="1660824044654" duration="8860000" />
+      <workItem from="1660824044654" duration="9478000" />
     </task>
     <task id="LOCAL-00001" summary="check number are same or not up to two floating point">
       <created>1660830021507</created>
