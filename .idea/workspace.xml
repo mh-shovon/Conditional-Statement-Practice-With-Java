@@ -4,7 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="63f79ffc-5c96-4249-8c01-219babb1bd7d" name="Changes" comment="check number are same or not up to two floating point" />
+    <list default="true" id="63f79ffc-5c96-4249-8c01-219babb1bd7d" name="Changes" comment="ignore file">
+      <change afterPath="$PROJECT_DIR$/src/ATM_Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ForLoopPractice1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ForLoopPractice2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ForLoopPractice3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ForLoopPractice4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ForLoopPractice5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ForLoopPractice6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ForLoopPractice7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -49,23 +59,37 @@
     "project.structure.side.proportion": "0.0"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.SameOrDifferentUpToTwoDecimalPlaces">
-    <configuration name="GPAandFindGrade" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="GPAandFindGrade" />
+  <component name="RunManager" selected="Application.ForLoopPractice7">
+    <configuration name="ForLoopPractice3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ForLoopPractice3" />
       <module name="Conditional-Statement-Practice-With-Java" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SameOrDifferentUpToTwoDecimalPlaces" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SameOrDifferentUpToTwoDecimalPlaces" />
+    <configuration name="ForLoopPractice4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ForLoopPractice4" />
       <module name="Conditional-Statement-Practice-With-Java" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SmallOrCapital" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SmallOrCapital" />
+    <configuration name="ForLoopPractice5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ForLoopPractice5" />
+      <module name="Conditional-Statement-Practice-With-Java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ForLoopPractice6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ForLoopPractice6" />
+      <module name="Conditional-Statement-Practice-With-Java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ForLoopPractice7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ForLoopPractice7" />
       <module name="Conditional-Statement-Practice-With-Java" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -73,9 +97,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.SameOrDifferentUpToTwoDecimalPlaces" />
-        <item itemvalue="Application.GPAandFindGrade" />
-        <item itemvalue="Application.SmallOrCapital" />
+        <item itemvalue="Application.ForLoopPractice7" />
+        <item itemvalue="Application.ForLoopPractice6" />
+        <item itemvalue="Application.ForLoopPractice5" />
+        <item itemvalue="Application.ForLoopPractice4" />
+        <item itemvalue="Application.ForLoopPractice3" />
       </list>
     </recent_temporary>
   </component>
@@ -87,7 +113,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1660824043367</updated>
-      <workItem from="1660824044654" duration="4936000" />
+      <workItem from="1660824044654" duration="8456000" />
     </task>
     <task id="LOCAL-00001" summary="check number are same or not up to two floating point">
       <created>1660830021507</created>
@@ -103,7 +129,14 @@
       <option name="project" value="LOCAL" />
       <updated>1660830035421</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="ignore file">
+      <created>1660830455688</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1660830455688</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -123,6 +156,7 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="check number are same or not up to two floating point" />
-    <option name="LAST_COMMIT_MESSAGE" value="check number are same or not up to two floating point" />
+    <MESSAGE value="ignore file" />
+    <option name="LAST_COMMIT_MESSAGE" value="ignore file" />
   </component>
 </project>
